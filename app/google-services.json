@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "953593274169",
+    "project_id": "real-86e23",
+    "storage_bucket": "real-86e23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953593274169:android:71180f430fa24cbf6052e8",
+        "android_client_info": {
+          "package_name": "com.jin.hanmo_social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953593274169-g7qth18cqkr1utfovujekjbsdunlkd9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR7ZcPNEgrjkT9YRx0UD-9sh7oJJZgRe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953593274169-g7qth18cqkr1utfovujekjbsdunlkd9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953593274169:android:5a7aef93d340e0dd6052e8",
+        "android_client_info": {
+          "package_name": "com.jin.real"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953593274169-g7qth18cqkr1utfovujekjbsdunlkd9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR7ZcPNEgrjkT9YRx0UD-9sh7oJJZgRe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953593274169-g7qth18cqkr1utfovujekjbsdunlkd9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
